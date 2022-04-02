@@ -1,3 +1,3 @@
 # guess-my-number
 
-Click on the [link](https://guess-my-number-github.netlify.app/)
+To see this project [click here...](https://guess-my-number-github.netlify.app/)
